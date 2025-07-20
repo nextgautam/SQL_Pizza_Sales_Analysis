@@ -64,7 +64,7 @@ Each table is connected using foreign keys to support powerful SQL joins and agg
 
 - <a href="pizza_sales_analysis_data">Click Here</a> – Dataset used
 - <a href="Sql_queries">Click Here</a> – SQl files
-- <a href="">Click Here</a> – Summary of insights and visualizations
+- <a href="Pizza Sales Analysis Presentation.pdf">Click Here</a> – Summary of insights and visualizations
 - `README.md` – Project documentation
 
 ---
