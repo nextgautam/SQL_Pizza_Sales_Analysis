@@ -1,1 +1,1 @@
-# SQL_Pizza_Sales_Analysis
+# SQL_Pizzas_Sales_Analysis
